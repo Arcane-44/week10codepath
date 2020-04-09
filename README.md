@@ -17,3 +17,5 @@ Only one Honeypot as a dionaea
 <img src='attacks.png' title='attacks.png'/>
 
 <img src='attacks2.png' title='attacks2.png'/>
+
+<img src='sensor.png' title='sensor.png'/>
